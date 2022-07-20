@@ -1,4 +1,4 @@
-# zoom_clone
+# Instant Meetings (A Zoom Clone)
 
 A new Flutter project.
 
